@@ -1,5 +1,5 @@
 ## CRUD News API With Laravel 
-pada project ini sudah tersedia crud user, blog, category.
+pada project ini sudah tersedia api crud user, blog, category.
 
 ## Cara Install & Setup Codebase
 untuk melakukan instalasi project ini, silahkan ikuti langkah langkah berikut :
